@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<levels>
+
+  <level>
+    <levelname> 1 </levelname>
+
+    <paharan>
+      <color>R</color>
+
+      <darak>
+        <color>R</color>
+        <order>3</order>
+        <items></items>
+      </darak>
+
+      <darak>
+        <color>R</color>
+        <order>1</order>
+        <items></items>
+      </darak>
+
+      <darak>
+        <color>G</color>
+        <order>3</order>
+        
+        <items></items>
+      </darak>
+
+    </paharan>
+
+
+    <paharan>
+
+      <color>G</color>
+
+      <darak>
+        <color>G</color>
+        <order>2</order>
+        <items></items>
+      </darak>
+
+      <darak>
+        <color>G</color>
+        <order>1</order>
+        <items></items>
+      </darak>
+
+      <darak>
+        <color>R</color>
+        <order>2</order>
+        <items></items>
+      </darak>
+
+    </paharan>
+  </level>
+
+
+</levels>
